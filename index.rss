@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>errandir</title>
+<link>http://errand.ir/</link>
+<description>errandir</description>
+<item>
+
+	<title>This will be a personal page</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/posts/This_will_be_a_personal_page/</guid>
+
+	<link>http://errand.ir/posts/This_will_be_a_personal_page/</link>
+
+	<pubDate>Tue, 24 Oct 2017 10:56:55 +0330</pubDate>
+	<dcterms:modified>2017-10-24T07:26:55Z</dcterms:modified>
+
+	<description>&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
+There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
+</description>
+
+
+	<comments>/posts/This_will_be_a_personal_page/#comments</comments>
+
+</item>
+
+</channel>
+</rss>

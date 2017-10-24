@@ -1,0 +1,738 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>pages most recently changed</title>
+<link>http://errand.ir/archive/</link>
+<description>errandir</description>
+<item>
+
+	<title>This will be a personal page</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/posts/This_will_be_a_personal_page/</guid>
+
+	<link>http://errand.ir/posts/This_will_be_a_personal_page/</link>
+
+	<pubDate>Tue, 24 Oct 2017 10:56:55 +0330</pubDate>
+	<dcterms:modified>2017-10-24T07:26:55Z</dcterms:modified>
+
+	<description>&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
+There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
+</description>
+
+
+	<comments>/posts/This_will_be_a_personal_page/#comments</comments>
+
+</item>
+<item>
+
+	<title>comments</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/comments/</guid>
+
+	<link>http://errand.ir/comments/</link>
+
+	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
+	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
+
+	<description>&lt;p&gt;Recent comments on posts in the &lt;a href=&quot;http://errand.ir/archive/../&quot;&gt;blog&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;feedlink&quot;&gt;
+
+&lt;a class=&quot;feedbutton&quot; type=&quot;application/rss+xml&quot; rel=&quot;alternate&quot; title=&quot;errandir (RSS feed)&quot; href=&quot;http://errand.ir/archive/../comments/index.rss&quot;&gt;RSS&lt;/a&gt;
+
+
+&lt;a class=&quot;feedbutton&quot; type=&quot;application/atom+xml&quot; rel=&quot;alternate&quot; title=&quot;errandir (Atom feed)&quot; href=&quot;http://errand.ir/archive/../comments/index.atom&quot;&gt;Atom&lt;/a&gt;
+
+&lt;/div&gt;
+
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>archives</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/archives/</guid>
+
+	<link>http://errand.ir/archives/</link>
+
+	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
+	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
+
+	<description>&lt;p&gt;You need to use the &lt;code&gt;ikiwiki-calendar&lt;/code&gt; program to generate calendar-based
+archive pages.&lt;/p&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>posts</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/posts/</guid>
+
+	<link>http://errand.ir/posts/</link>
+
+	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
+	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
+
+	<description>&lt;p&gt;Here is a full list of posts to the &lt;a href=&quot;http://errand.ir/archive/../&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;a href=&quot;http://errand.ir/archive/../posts/This_will_be_a_personal_page/&quot;&gt;This will be a personal page&lt;/a&gt;&lt;br /&gt;
+
+&lt;i&gt;
+Posted &lt;span class=&quot;date&quot;&gt;Tue 24 Oct 2017 10:56:55 AM IRST&lt;/span&gt;
+
+&lt;/i&gt;
+&lt;/p&gt;
+
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>tags</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/tags/</guid>
+
+	<link>http://errand.ir/tags/</link>
+
+	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
+	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
+
+	<description>&lt;div class=&quot;pagecloud&quot;&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;On the right you can see the tag cloud for this blog.&lt;/p&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>index</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/</guid>
+
+	<link>http://errand.ir/</link>
+
+	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
+	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
+
+	<description>
+
+&lt;div class=&quot;feedlink&quot;&gt;
+
+&lt;a class=&quot;feedbutton&quot; type=&quot;application/rss+xml&quot; rel=&quot;alternate&quot; title=&quot;errandir (RSS feed)&quot; href=&quot;http://errand.ir/archive/../index.rss&quot;&gt;RSS&lt;/a&gt;
+
+
+&lt;a class=&quot;feedbutton&quot; type=&quot;application/atom+xml&quot; rel=&quot;alternate&quot; title=&quot;errandir (Atom feed)&quot; href=&quot;http://errand.ir/archive/../index.atom&quot;&gt;Atom&lt;/a&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;inlinepage&quot;&gt;
+
+&lt;div class=&quot;inlineheader&quot;&gt;
+
+&lt;span class=&quot;header&quot;&gt;
+
+&lt;a href=&quot;http://errand.ir/archive/../posts/This_will_be_a_personal_page/&quot;&gt;This will be a personal page&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;inlinecontent&quot;&gt;
+&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
+There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;inlinefooter&quot;&gt;
+
+&lt;span class=&quot;pagedate&quot;&gt;
+Posted &lt;span class=&quot;date&quot;&gt;Tue 24 Oct 2017 10:56:55 AM IRST&lt;/span&gt;
+&lt;/span&gt;
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;This blog is powered by &lt;a href=&quot;http://ikiwiki.info&quot;&gt;ikiwiki&lt;/a&gt;.&lt;/p&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>sidebar</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/sidebar/</guid>
+
+	<link>http://errand.ir/sidebar/</link>
+
+	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
+	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
+
+	<description>
+
+&lt;div&gt;&lt;div class=&quot;calendar&quot;&gt;&lt;table class=&quot;month-calendar&quot;&gt;
+    &lt;tr&gt;
+    &lt;th class=&quot;month-calendar-arrow&quot;&gt;&lt;/th&gt;
+    &lt;th class=&quot;month-calendar-head&quot; colspan=&quot;5&quot;&gt;October 2017&lt;/th&gt;
+    &lt;th class=&quot;month-calendar-arrow&quot;&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th class=&quot;month-calendar-day-head Sunday&quot; title=&quot;Sunday&quot;&gt;S&lt;/th&gt;
+        &lt;th class=&quot;month-calendar-day-head Monday&quot; title=&quot;Monday&quot;&gt;M&lt;/th&gt;
+        &lt;th class=&quot;month-calendar-day-head Tuesday&quot; title=&quot;Tuesday&quot;&gt;T&lt;/th&gt;
+        &lt;th class=&quot;month-calendar-day-head Wednesday&quot; title=&quot;Wednesday&quot;&gt;W&lt;/th&gt;
+        &lt;th class=&quot;month-calendar-day-head Thursday&quot; title=&quot;Thursday&quot;&gt;T&lt;/th&gt;
+        &lt;th class=&quot;month-calendar-day-head Friday&quot; title=&quot;Friday&quot;&gt;F&lt;/th&gt;
+        &lt;th class=&quot;month-calendar-day-head Saturday&quot; title=&quot;Saturday&quot;&gt;S&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;1&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;2&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Tuesday&quot;&gt;3&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Wednesday&quot;&gt;4&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Thursday&quot;&gt;5&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Friday&quot;&gt;6&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Saturday&quot;&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;8&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;9&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Tuesday&quot;&gt;10&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Wednesday&quot;&gt;11&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Thursday&quot;&gt;12&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Friday&quot;&gt;13&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Saturday&quot;&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;15&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;16&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Tuesday&quot;&gt;17&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Wednesday&quot;&gt;18&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Thursday&quot;&gt;19&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Friday&quot;&gt;20&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Saturday&quot;&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;22&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;23&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-this-day Tuesday&quot;&gt;&lt;a href=&quot;http://errand.ir/archive/../posts/This_will_be_a_personal_page/&quot; title=&quot;This will be a personal page&quot;&gt;24&lt;/a&gt;&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-future Wednesday&quot;&gt;25&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Thursday&quot;&gt;26&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Friday&quot;&gt;27&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Saturday&quot;&gt;28&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;29&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;30&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-nolink Tuesday&quot;&gt;31&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-noday Wednesday&quot;&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-noday Thursday&quot;&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-noday Friday&quot;&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td class=&quot;month-calendar-day-noday Saturday&quot;&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://errand.ir/archive/../comments/&quot;&gt;Recent Comments&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://errand.ir/archive/../archives/&quot;&gt;Archives&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://errand.ir/archive/../tags/&quot;&gt;Tags&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+&lt;/ul&gt;
+
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>revert.png</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/wikiicons/revert.png</guid>
+
+	<link>http://errand.ir/wikiicons/revert.png</link>
+
+	<pubDate>Thu, 16 Feb 2012 12:01:49 +0330</pubDate>
+	<dcterms:modified>2012-02-16T08:31:49Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/wikiicons/revert.png" type="image/png" length="300" />
+
+
+</item>
+<item>
+
+	<title>diff.png</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/wikiicons/diff.png</guid>
+
+	<link>http://errand.ir/wikiicons/diff.png</link>
+
+	<pubDate>Thu, 16 Feb 2012 12:01:49 +0330</pubDate>
+	<dcterms:modified>2012-02-16T08:31:49Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/wikiicons/diff.png" type="image/png" length="190" />
+
+
+</item>
+<item>
+
+	<title>relativedate.js</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/relativedate.js</guid>
+
+	<link>http://errand.ir/ikiwiki/relativedate.js</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:51 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:51Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/ikiwiki/relativedate.js" type="application/javascript" length="1824" />
+
+
+</item>
+<item>
+
+	<title>openid-jquery.js</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/openid/openid-jquery.js</guid>
+
+	<link>http://errand.ir/ikiwiki/openid/openid-jquery.js</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:51 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:51Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/ikiwiki/openid/openid-jquery.js" type="application/javascript" length="7380" />
+
+
+</item>
+<item>
+
+	<title>jquery.min.js</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/jquery.min.js</guid>
+
+	<link>http://errand.ir/ikiwiki/jquery.min.js</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:51 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:51Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/ikiwiki/jquery.min.js" type="application/javascript" length="101525" />
+
+
+</item>
+<item>
+
+	<title>ikiwiki.js</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/ikiwiki.js</guid>
+
+	<link>http://errand.ir/ikiwiki/ikiwiki.js</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:51 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:51Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/ikiwiki/ikiwiki.js" type="application/javascript" length="1301" />
+
+
+</item>
+<item>
+
+	<title>toggle.js</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/toggle.js</guid>
+
+	<link>http://errand.ir/ikiwiki/toggle.js</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:51 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:51Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/ikiwiki/toggle.js" type="application/javascript" length="903" />
+
+
+</item>
+<item>
+
+	<title>sandbox</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/sandbox/</guid>
+
+	<link>http://errand.ir/sandbox/</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:41 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:41Z</dcterms:modified>
+
+	<description>&lt;p&gt;This is the SandBox, a page anyone can edit to learn how to use the wiki.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here&#39;s a paragraph.&lt;/p&gt;
+
+&lt;p&gt;Here&#39;s another one with &lt;em&gt;emphasised&lt;/em&gt; text.&lt;/p&gt;
+
+&lt;h1&gt;Header&lt;/h1&gt;
+
+&lt;h2&gt;Subheader&lt;/h2&gt;
+
+&lt;blockquote&gt;&lt;p&gt;This is a blockquote.&lt;/p&gt;
+
+&lt;p&gt;This is the first level of quoting.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;This is nested blockquote.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Back to the first level.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Numbered list&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;First item.&lt;/li&gt;
+&lt;li&gt;Another.&lt;/li&gt;
+&lt;li&gt;And another..&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Bulleted list&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;item&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;item&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://errand.ir/archive/../ikiwiki/wikilink/&quot;&gt;WikiLink&lt;/a&gt;&lt;/p&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>po</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/pagespec/po/</guid>
+
+	<link>http://errand.ir/ikiwiki/pagespec/po/</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:15 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:15Z</dcterms:modified>
+
+	<description>&lt;p&gt;This wiki has po support &lt;strong&gt;disabled&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If the &lt;a href=&quot;http://ikiwiki.info/plugins/po/&quot;&gt;po&lt;/a&gt; plugin is enabled, the regular
+&lt;a href=&quot;http://errand.ir/archive/../ikiwiki/pagespec/&quot;&gt;PageSpec&lt;/a&gt; syntax is expanded with the following additional
+tests that can be used to improve user navigation in a multi-lingual
+wiki:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&quot;&lt;code&gt;lang(LL)&lt;/code&gt;&quot; - tests whether a page is written in the language
+specified as a ISO639-1 (two-letter) language code.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;currentlang()&lt;/code&gt;&quot; - tests whether a page is written in the same
+language as the current page.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;needstranslation()&lt;/code&gt;&quot; - tests whether a page needs translation
+work. Only slave pages match this PageSpec. A minimum target
+translation percentage can optionally be passed as an integer
+parameter: &quot;&lt;code&gt;needstranslation(50)&lt;/code&gt;&quot; matches only pages less than 50%
+translated.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Note that every non-po page is considered to be written in
+&lt;code&gt;po_master_language&lt;/code&gt;, as specified in &lt;code&gt;ikiwiki.setup&lt;/code&gt;.&lt;/p&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>sorting</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/pagespec/sorting/</guid>
+
+	<link>http://errand.ir/ikiwiki/pagespec/sorting/</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:15 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:15Z</dcterms:modified>
+
+	<description>&lt;p&gt;Some &lt;a href=&quot;http://errand.ir/archive/../ikiwiki/directive/&quot;&gt;directives&lt;/a&gt; that use
+&lt;a href=&quot;http://errand.ir/archive/../ikiwiki/pagespec/&quot;&gt;PageSpecs&lt;/a&gt; allow
+specifying the order that matching pages are shown in. The following sort
+orders can be specified.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;age&lt;/code&gt; - List pages from the most recently created to the oldest.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;mtime&lt;/code&gt; - List pages with the most recently modified first.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;title&lt;/code&gt; - Order by title (page name), e.g. &quot;z/a a/b a/c&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;path&lt;/code&gt; - Order by page name including parents, e.g. &quot;a/b a/c z/a&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;meta(title)&lt;/code&gt; - Order according to the &lt;code&gt;[[!meta  title=&quot;foo&quot; sortas=&quot;bar&quot;]]&lt;/code&gt;
+or &lt;code&gt;[[!meta  title=&quot;foo&quot;]]&lt;/code&gt; &lt;a href=&quot;http://errand.ir/archive/../ikiwiki/directive/&quot;&gt;directive&lt;/a&gt;, or the page name if no
+full title was set. &lt;code&gt;meta(author)&lt;/code&gt;, &lt;code&gt;meta(date)&lt;/code&gt;, &lt;code&gt;meta(updated)&lt;/code&gt;, etc.
+also work.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;In addition, you can combine several sort orders and/or reverse the order of
+sorting, with a string like &lt;code&gt;age -title&lt;/code&gt; (which would sort by age, then by
+title in reverse order if two pages have the same age).&lt;/p&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>linkingrules</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/subpage/linkingrules/</guid>
+
+	<link>http://errand.ir/ikiwiki/subpage/linkingrules/</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:15 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:15Z</dcterms:modified>
+
+	<description>&lt;p&gt;To link to or from a &lt;a href=&quot;http://errand.ir/archive/../ikiwiki/subpage/&quot;&gt;SubPage&lt;/a&gt;, you can normally use a regular
+&lt;a href=&quot;http://errand.ir/archive/../ikiwiki/wikilink/&quot;&gt;WikiLink&lt;/a&gt; that does not contain the name of the parent directory of
+the &lt;a href=&quot;http://errand.ir/archive/../ikiwiki/subpage/&quot;&gt;SubPage&lt;/a&gt;. Ikiwiki descends the directory hierarchy looking for a
+page that matches your link.&lt;/p&gt;
+
+&lt;p&gt;For example, if FooBar/SubPage links to &quot;OtherPage&quot;, ikiwiki will first
+prefer pointing the link to FooBar/SubPage/OtherPage if it exists, next
+to FooBar/OtherPage and finally to OtherPage in the root of the wiki.&lt;/p&gt;
+
+&lt;p&gt;Note that this means that if a link on FooBar/SomePage to &quot;OtherPage&quot;
+currently links to OtherPage, in the root of the wiki, and FooBar/OtherPage
+is created, the link will &lt;em&gt;change&lt;/em&gt; to point to FooBar/OtherPage. On the
+other hand, a link from BazBar to &quot;OtherPage&quot; would be unchanged by this
+creation of a &lt;a href=&quot;http://errand.ir/archive/../ikiwiki/subpage/&quot;&gt;SubPage&lt;/a&gt; of FooBar.&lt;/p&gt;
+
+&lt;p&gt;You can also specify a link that contains a directory name, like
+&quot;FooBar/OtherPage&quot; to more exactly specify what page to link to. This is
+the only way to link to an unrelated &lt;a href=&quot;http://errand.ir/archive/../ikiwiki/subpage/&quot;&gt;SubPage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can use this to, for example, to link from BazBar to &quot;FooBar/SubPage&quot;,
+or from BazBar/SubPage to &quot;FooBar/SubPage&quot;.&lt;/p&gt;
+
+&lt;p&gt;You can also use &quot;/&quot; at the start of a link, to specify exactly which page
+to link to, when there are multiple pages with similar names and the link
+goes to the wrong page by default. For example, linking from
+&quot;FooBar/SubPage&quot; to  &quot;/OtherPage&quot; will link to the &quot;OtherPage&quot; in the root
+of the wiki, even if there is a &quot;FooBar/OtherPage&quot;.&lt;/p&gt;
+
+&lt;p&gt;Also, if the wiki is configured with a userdir, you can link to pages
+within the userdir without specifying a path to them. This is to allow for
+easy linking to a user&#39;s page in the userdir, to sign a comment. These
+links are checked for last of all.&lt;/p&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>attachment</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/pagespec/attachment/</guid>
+
+	<link>http://errand.ir/ikiwiki/pagespec/attachment/</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:15 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:15Z</dcterms:modified>
+
+	<description>&lt;p&gt;This wiki has attachments &lt;strong&gt;enabled&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If attachments are enabled, the wiki admin can control what types of
+attachments will be accepted, via the &lt;code&gt;allowed_attachments&lt;/code&gt;
+configuration setting.&lt;/p&gt;
+
+&lt;p&gt;For example, to limit most users to uploading small images, and nothing else,
+while allowing larger mp3 files to be uploaded by joey into a specific
+directory, and check all attachments for viruses, something like this could be
+used:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;virusfree() and ((user(joey) and podcast/*.mp3 and mimetype(audio/mpeg) and maxsize(15mb)) or (mimetype(image/*) and maxsize(50kb)))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The regular &lt;a href=&quot;http://errand.ir/archive/../ikiwiki/pagespec/&quot;&gt;PageSpec&lt;/a&gt; syntax is expanded with the following
+additional tests:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&quot;&lt;code&gt;maxsize(size)&lt;/code&gt;&quot; - tests whether the attachment is no larger than the
+specified size. The size defaults to being in bytes, but &quot;kb&quot;, &quot;mb&quot;, &quot;gb&quot;
+etc can be used to specify the units.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&quot;&lt;code&gt;minsize(size)&lt;/code&gt;&quot; - tests whether the attachment is no smaller than the
+specified size.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&quot;&lt;code&gt;ispage()&lt;/code&gt;&quot; - tests whether the attachment will be treated by ikiwiki as a
+wiki page. (Ie, if it has an extension of &quot;.mdwn&quot;, or of any other enabled
+page format).&lt;/p&gt;
+
+&lt;p&gt;So, if you don&#39;t want to allow wiki pages to be uploaded as attachments,
+use &lt;code&gt;!ispage()&lt;/code&gt; ; if you only want to allow wiki pages to be uploaded
+as attachments, use &lt;code&gt;ispage()&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&quot;&lt;code&gt;mimetype(foo/bar)&lt;/code&gt;&quot; - checks the MIME type of the attachment. You can
+include a glob in the type, for example &lt;code&gt;mimetype(image/*)&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&quot;&lt;code&gt;virusfree()&lt;/code&gt;&quot; - checks the attachment with an antiviral program.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+
+
+</item>
+<item>
+
+	<title>pagespec</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/ikiwiki/pagespec/</guid>
+
+	<link>http://errand.ir/ikiwiki/pagespec/</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:52:13 +0330</pubDate>
+	<dcterms:modified>2012-02-14T16:22:13Z</dcterms:modified>
+
+	<description>&lt;p&gt;To select a set of pages, such as pages that are locked, pages
+whose commit emails you want subscribe to, or pages to combine into a
+blog, the wiki uses a PageSpec. This is an expression that matches
+a set of pages.&lt;/p&gt;
+
+&lt;p&gt;The simplest PageSpec is a simple list of pages. For example, this matches
+any of the three listed pages:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;foo or bar or baz
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;More often you will want to match any pages that have a particular thing in
+their name. You can do this using a glob pattern. &quot;&lt;code&gt;*&lt;/code&gt;&quot; stands for any part
+of a page name, and &quot;&lt;code&gt;?&lt;/code&gt;&quot; for any single letter of a page name. So this
+matches all pages about music, and any &lt;a href=&quot;http://errand.ir/archive/../ikiwiki/subpage/&quot;&gt;SubPage&lt;/a&gt;s of the SandBox, but does
+not match the SandBox itself:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;*music* or SandBox/*
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can also prefix an item with &quot;&lt;code&gt;!&lt;/code&gt;&quot; to skip pages that match it. So to
+match all pages except for Discussion pages and the SandBox:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* and !SandBox and !*/Discussion
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Some more elaborate limits can be added to what matches using these functions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&quot;&lt;code&gt;glob(someglob)&lt;/code&gt;&quot; - matches pages and other files that match the given glob.
+Just writing the glob by itself is actually a shorthand for this function.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;page(glob)&lt;/code&gt;&quot; - like &lt;code&gt;glob()&lt;/code&gt;, but only matches pages, not other files&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;link(page)&lt;/code&gt;&quot; - matches only pages that link to a given page (or glob)&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;tagged(tag)&lt;/code&gt;&quot; - matches pages that are tagged or link to the given tag (or
+tags matched by a glob)&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;backlink(page)&lt;/code&gt;&quot; - matches only pages that a given page links to&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;creation_month(month)&lt;/code&gt;&quot; - matches only files created on the given month
+number&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;creation_day(mday)&lt;/code&gt;&quot; - or day of the month&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;creation_year(year)&lt;/code&gt;&quot; - or year&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;created_after(page)&lt;/code&gt;&quot; - matches only files created after the given page
+was created&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;created_before(page)&lt;/code&gt;&quot; - matches only files created before the given page
+was created&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;internal(glob)&lt;/code&gt;&quot; - like &lt;code&gt;glob()&lt;/code&gt;, but matches even internal-use
+pages that globs do not usually match.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;title(glob)&lt;/code&gt;&quot;, &quot;&lt;code&gt;author(glob)&lt;/code&gt;&quot;, &quot;&lt;code&gt;authorurl(glob)&lt;/code&gt;&quot;,
+&quot;&lt;code&gt;license(glob)&lt;/code&gt;&quot;, &quot;&lt;code&gt;copyright(glob)&lt;/code&gt;&quot;, &quot;&lt;code&gt;guid(glob)&lt;/code&gt;&quot;
+
+&lt;ul&gt;
+&lt;li&gt;match pages that have the given metadata, matching the specified glob.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;user(username)&lt;/code&gt;&quot; - tests whether a modification is being made by a
+user with the specified username. If openid is enabled, an openid can also
+be put here. Glob patterns can be used in the username. For example,
+to match all openid users, use &lt;code&gt;user(*://*)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;admin()&lt;/code&gt;&quot; - tests whether a modification is being made by one of the
+wiki admins.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;ip(address)&lt;/code&gt;&quot; - tests whether a modification is being made from the
+specified IP address.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;comment(glob)&lt;/code&gt;&quot; - matches comments to a page matching the glob.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;comment_pending(glob)&lt;/code&gt;&quot; - matches unmoderated, pending comments.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;code&gt;postcomment(glob)&lt;/code&gt;&quot; - matches only when comments are being
+posted to a page matching the specified glob&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;For example, to match all pages in a blog that link to the page about music
+and were written in 2005:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;blog/* and link(music) and creation_year(2005)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note the use of &quot;and&quot; in the above example, that means that only pages that
+match each of the three expressions match the whole. Use &quot;and&quot; when you
+want to combine expression like that; &quot;or&quot; when it&#39;s enough for a page to
+match one expression. Note that it doesn&#39;t make sense to say &quot;index and
+SandBox&quot;, since no page can match both expressions.&lt;/p&gt;
+
+&lt;p&gt;More complex expressions can also be created, by using parentheses for
+grouping. For example, to match pages in a blog that are tagged with either
+of two tags, use:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;blog/* and (tagged(foo) or tagged(bar))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that page names in PageSpecs are matched against the absolute
+filenames of the pages in the wiki, so a pagespec &quot;foo&quot; used on page
+&quot;a/b&quot; will not match a page named &quot;a/foo&quot; or &quot;a/b/foo&quot;. To match
+relative to the directory of the page containing the pagespec, you can
+use &quot;./&quot;. For example, &quot;./foo&quot; on page &quot;a/b&quot; matches page &quot;a/foo&quot;.&lt;/p&gt;
+
+&lt;p&gt;To indicate the name of the page the PageSpec is used in, you can
+use a single dot. For example, &lt;code&gt;link(.)&lt;/code&gt; matches all the pages
+linking to the page containing the PageSpec.&lt;/p&gt;
+</description>
+
+
+</item>
+
+</channel>
+</rss>

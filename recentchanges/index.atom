@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>RecentChanges</title>
+<link href="http://errand.ir/recentchanges/"/>
+<link href="http://errand.ir/recentchanges/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>errandir</name>
+
+</author>
+
+
+
+
+<id>http://errand.ir/recentchanges/</id>
+
+<subtitle type="html">errandir</subtitle>
+<generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
+<updated>2017-10-20T12:34:21Z</updated>
+<entry>
+	<title>change to .gitignore archives comments index posts posts/first_post sidebar tags on errandir</title>
+
+	<id>http://errand.ir/recentchanges/change_d03a2b4d51ff58ea755e3ad0ff877b03ce942d82._change/</id>
+
+	<link href="http://errand.ir/~beleg/errandir/recentchanges/#change-d03a2b4d51ff58ea755e3ad0ff877b03ce942d82"/>
+
+	<author><name>melkorbane</name></author>
+
+
+
+
+
+	<updated>2017-10-20T12:34:21Z</updated>
+	<published>2017-10-20T12:33:28Z</published>
+
+	<link rel="enclosure" type="" href="http://errand.ir/recentchanges/change_d03a2b4d51ff58ea755e3ad0ff877b03ce942d82._change/" length="1964" />
+
+
+
+</entry>
+
+</feed>

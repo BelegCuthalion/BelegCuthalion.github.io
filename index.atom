@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>errandir</title>
+<link href="http://errand.ir/"/>
+<link href="http://errand.ir/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>errandir</name>
+
+</author>
+
+
+
+
+<id>http://errand.ir/</id>
+
+<subtitle type="html">errandir</subtitle>
+<generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
+<updated>2017-10-24T07:26:55Z</updated>
+<entry>
+	<title>This will be a personal page</title>
+
+	<id>http://errand.ir/posts/This_will_be_a_personal_page/</id>
+
+	<link href="http://errand.ir/posts/This_will_be_a_personal_page/"/>
+
+
+
+
+
+	<updated>2017-10-24T07:26:55Z</updated>
+	<published>2017-10-24T07:26:55Z</published>
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
+There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/posts/This_will_be_a_personal_page/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/posts/This_will_be_a_personal_page/comments.atom" type="application/atom+xml" />
+
+</entry>
+
+</feed>

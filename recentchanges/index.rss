@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>RecentChanges</title>
+<link>http://errand.ir/recentchanges/</link>
+<description>errandir</description>
+<item>
+
+	<title>melkorbane: change to .gitignore archives comments index posts posts/first_post sidebar tags on errandir</title>
+	<dcterms:creator>melkorbane</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://errand.ir/recentchanges/change_d03a2b4d51ff58ea755e3ad0ff877b03ce942d82._change/</guid>
+
+	<link>http://errand.ir/~beleg/errandir/recentchanges/#change-d03a2b4d51ff58ea755e3ad0ff877b03ce942d82</link>
+
+	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
+	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/recentchanges/change_d03a2b4d51ff58ea755e3ad0ff877b03ce942d82._change/" type="" length="1964" />
+
+
+</item>
+
+</channel>
+</rss>
