@@ -8,6 +8,129 @@
 <description>errandir</description>
 <item>
 
+	<title>favicon.ico</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/favicon.ico</guid>
+
+	<link>http://errand.ir/favicon.ico</link>
+
+	<pubDate>Tue, 14 Feb 2012 19:51:44 +0330</pubDate>
+	<dcterms:modified>2017-10-25T07:47:58Z</dcterms:modified>
+
+	<enclosure url="http://errand.ir/favicon.ico" type="image/vnd.microsoft.icon" length="318" />
+
+
+</item>
+<item>
+
+	<title>index</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/</guid>
+
+	<link>http://errand.ir/</link>
+
+	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
+	<dcterms:modified>2017-10-25T07:26:37Z</dcterms:modified>
+
+	<description>
+
+&lt;div class=&quot;feedlink&quot;&gt;
+
+&lt;a class=&quot;feedbutton&quot; type=&quot;application/rss+xml&quot; rel=&quot;alternate&quot; title=&quot;errandir (RSS feed)&quot; href=&quot;http://errand.ir/archive/../index.rss&quot;&gt;RSS&lt;/a&gt;
+
+
+&lt;a class=&quot;feedbutton&quot; type=&quot;application/atom+xml&quot; rel=&quot;alternate&quot; title=&quot;errandir (Atom feed)&quot; href=&quot;http://errand.ir/archive/../index.atom&quot;&gt;Atom&lt;/a&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;inlinepage&quot;&gt;
+
+&lt;div class=&quot;inlineheader&quot;&gt;
+
+&lt;span class=&quot;header&quot;&gt;
+
+&lt;a href=&quot;http://errand.ir/archive/../posts/This_will_be_a_personal_page/&quot;&gt;This will be a personal page&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;inlinecontent&quot;&gt;
+&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
+There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;salam&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;pre class=&quot;hl&quot;&gt;    &lt;span class=&quot;hl kwa&quot;&gt;public class&lt;/span&gt; MainClass &lt;span class=&quot;hl opt&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;hl kwa&quot;&gt;public static&lt;/span&gt; &lt;span class=&quot;hl kwb&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hl kwd&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;(&lt;/span&gt;String&lt;span class=&quot;hl opt&quot;&gt;[]&lt;/span&gt; args&lt;span class=&quot;hl opt&quot;&gt;) {&lt;/span&gt;
+            System&lt;span class=&quot;hl opt&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;hl opt&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;hl kwd&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;hl str&quot;&gt;&amp;quot;Goodbye World!&amp;quot;&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;hl opt&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;hl opt&quot;&gt;}&lt;/span&gt;
+    
+&lt;/pre&gt;
+
+
+&lt;/div&gt;
+
+&lt;div class=&quot;inlinefooter&quot;&gt;
+
+&lt;span class=&quot;pagedate&quot;&gt;
+Posted &lt;span class=&quot;date&quot;&gt;Tue 24 Oct 2017 10:56:55 AM IRST&lt;/span&gt;
+&lt;/span&gt;
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;This site is powered by &lt;a href=&quot;http://ikiwiki.info&quot;&gt;ikiwiki&lt;/a&gt;.&lt;/p&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>This will be a personal page</title>
+
+
+	<guid isPermaLink="false">http://errand.ir/posts/This_will_be_a_personal_page/</guid>
+
+	<link>http://errand.ir/posts/This_will_be_a_personal_page/</link>
+
+	<pubDate>Tue, 24 Oct 2017 10:56:55 +0330</pubDate>
+	<dcterms:modified>2017-10-24T17:37:59Z</dcterms:modified>
+
+	<description>&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
+There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;salam&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;pre class=&quot;hl&quot;&gt;    &lt;span class=&quot;hl kwa&quot;&gt;public class&lt;/span&gt; MainClass &lt;span class=&quot;hl opt&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;hl kwa&quot;&gt;public static&lt;/span&gt; &lt;span class=&quot;hl kwb&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hl kwd&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;(&lt;/span&gt;String&lt;span class=&quot;hl opt&quot;&gt;[]&lt;/span&gt; args&lt;span class=&quot;hl opt&quot;&gt;) {&lt;/span&gt;
+            System&lt;span class=&quot;hl opt&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;hl opt&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;hl kwd&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;hl str&quot;&gt;&amp;quot;Goodbye World!&amp;quot;&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;hl opt&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;hl opt&quot;&gt;}&lt;/span&gt;
+    
+&lt;/pre&gt;
+
+</description>
+
+
+	<comments>/posts/This_will_be_a_personal_page/#comments</comments>
+
+</item>
+<item>
+
 	<title>05</title>
 
 
@@ -66,6 +189,17 @@
 &lt;div class=&quot;inlinecontent&quot;&gt;
 &lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
 There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;salam&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;pre class=&quot;hl&quot;&gt;    &lt;span class=&quot;hl kwa&quot;&gt;public class&lt;/span&gt; MainClass &lt;span class=&quot;hl opt&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;hl kwa&quot;&gt;public static&lt;/span&gt; &lt;span class=&quot;hl kwb&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hl kwd&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;(&lt;/span&gt;String&lt;span class=&quot;hl opt&quot;&gt;[]&lt;/span&gt; args&lt;span class=&quot;hl opt&quot;&gt;) {&lt;/span&gt;
+            System&lt;span class=&quot;hl opt&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;hl opt&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;hl kwd&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;hl str&quot;&gt;&amp;quot;Goodbye World!&amp;quot;&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;hl opt&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;hl opt&quot;&gt;}&lt;/span&gt;
+    
+&lt;/pre&gt;
+
 
 &lt;/div&gt;
 
@@ -291,26 +425,6 @@ Posted &lt;span class=&quot;date&quot;&gt;Tue 24 Oct 2017 10:56:55 AM IRST&lt;/s
 </item>
 <item>
 
-	<title>This will be a personal page</title>
-
-
-	<guid isPermaLink="false">http://errand.ir/posts/This_will_be_a_personal_page/</guid>
-
-	<link>http://errand.ir/posts/This_will_be_a_personal_page/</link>
-
-	<pubDate>Tue, 24 Oct 2017 10:56:55 +0330</pubDate>
-	<dcterms:modified>2017-10-24T09:56:05Z</dcterms:modified>
-
-	<description>&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
-There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
-</description>
-
-
-	<comments>/posts/This_will_be_a_personal_page/#comments</comments>
-
-</item>
-<item>
-
 	<title>comments</title>
 
 
@@ -412,164 +526,6 @@ Posted &lt;span class=&quot;date&quot;&gt;Tue 24 Oct 2017 10:56:55 AM IRST&lt;/s
 
 
 &lt;p&gt;On the right you can see the tag cloud for this blog.&lt;/p&gt;
-</description>
-
-
-</item>
-<item>
-
-	<title>index</title>
-
-
-	<guid isPermaLink="false">http://errand.ir/</guid>
-
-	<link>http://errand.ir/</link>
-
-	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
-	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
-
-	<description>
-
-&lt;div class=&quot;feedlink&quot;&gt;
-
-&lt;a class=&quot;feedbutton&quot; type=&quot;application/rss+xml&quot; rel=&quot;alternate&quot; title=&quot;errandir (RSS feed)&quot; href=&quot;http://errand.ir/archive/../index.rss&quot;&gt;RSS&lt;/a&gt;
-
-
-&lt;a class=&quot;feedbutton&quot; type=&quot;application/atom+xml&quot; rel=&quot;alternate&quot; title=&quot;errandir (Atom feed)&quot; href=&quot;http://errand.ir/archive/../index.atom&quot;&gt;Atom&lt;/a&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;inlinepage&quot;&gt;
-
-&lt;div class=&quot;inlineheader&quot;&gt;
-
-&lt;span class=&quot;header&quot;&gt;
-
-&lt;a href=&quot;http://errand.ir/archive/../posts/This_will_be_a_personal_page/&quot;&gt;This will be a personal page&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;inlinecontent&quot;&gt;
-&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
-There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;inlinefooter&quot;&gt;
-
-&lt;span class=&quot;pagedate&quot;&gt;
-Posted &lt;span class=&quot;date&quot;&gt;Tue 24 Oct 2017 10:56:55 AM IRST&lt;/span&gt;
-&lt;/span&gt;
-
-
-
-
-
-
-
-
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;This blog is powered by &lt;a href=&quot;http://ikiwiki.info&quot;&gt;ikiwiki&lt;/a&gt;.&lt;/p&gt;
-</description>
-
-
-</item>
-<item>
-
-	<title>sidebar</title>
-
-
-	<guid isPermaLink="false">http://errand.ir/sidebar/</guid>
-
-	<link>http://errand.ir/sidebar/</link>
-
-	<pubDate>Fri, 20 Oct 2017 16:03:28 +0330</pubDate>
-	<dcterms:modified>2017-10-20T12:34:21Z</dcterms:modified>
-
-	<description>
-
-&lt;div&gt;&lt;div class=&quot;calendar&quot;&gt;&lt;table class=&quot;month-calendar&quot;&gt;
-    &lt;tr&gt;
-    &lt;th class=&quot;month-calendar-arrow&quot;&gt;&lt;a href=&quot;http://errand.ir/archive/../archives/2017/09/&quot; title=&quot;September&quot;&gt;&amp;larr;&lt;/a&gt;&lt;/th&gt;
-    &lt;th class=&quot;month-calendar-head&quot; colspan=&quot;5&quot;&gt;&lt;a href=&quot;http://errand.ir/archive/../archives/2017/10/&quot; title=&quot;October&quot;&gt;Oct 2017&lt;/a&gt;&lt;/th&gt;
-    &lt;th class=&quot;month-calendar-arrow&quot;&gt;&lt;a href=&quot;http://errand.ir/archive/../archives/2017/11/&quot; title=&quot;November&quot;&gt;&amp;rarr;&lt;/a&gt;&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th class=&quot;month-calendar-day-head Sunday&quot; title=&quot;Sunday&quot;&gt;S&lt;/th&gt;
-        &lt;th class=&quot;month-calendar-day-head Monday&quot; title=&quot;Monday&quot;&gt;M&lt;/th&gt;
-        &lt;th class=&quot;month-calendar-day-head Tuesday&quot; title=&quot;Tuesday&quot;&gt;T&lt;/th&gt;
-        &lt;th class=&quot;month-calendar-day-head Wednesday&quot; title=&quot;Wednesday&quot;&gt;W&lt;/th&gt;
-        &lt;th class=&quot;month-calendar-day-head Thursday&quot; title=&quot;Thursday&quot;&gt;T&lt;/th&gt;
-        &lt;th class=&quot;month-calendar-day-head Friday&quot; title=&quot;Friday&quot;&gt;F&lt;/th&gt;
-        &lt;th class=&quot;month-calendar-day-head Saturday&quot; title=&quot;Saturday&quot;&gt;S&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;1&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;2&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Tuesday&quot;&gt;3&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Wednesday&quot;&gt;4&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Thursday&quot;&gt;5&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Friday&quot;&gt;6&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Saturday&quot;&gt;7&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;8&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;9&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Tuesday&quot;&gt;10&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Wednesday&quot;&gt;11&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Thursday&quot;&gt;12&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Friday&quot;&gt;13&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Saturday&quot;&gt;14&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;15&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;16&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Tuesday&quot;&gt;17&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Wednesday&quot;&gt;18&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Thursday&quot;&gt;19&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Friday&quot;&gt;20&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Saturday&quot;&gt;21&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;22&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;23&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-this-day Tuesday&quot;&gt;&lt;a href=&quot;http://errand.ir/archive/../posts/This_will_be_a_personal_page/&quot; title=&quot;This will be a personal page&quot;&gt;24&lt;/a&gt;&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-future Wednesday&quot;&gt;25&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Thursday&quot;&gt;26&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Friday&quot;&gt;27&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Saturday&quot;&gt;28&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Sunday&quot;&gt;29&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Monday&quot;&gt;30&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-nolink Tuesday&quot;&gt;31&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-noday Wednesday&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-noday Thursday&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-noday Friday&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;month-calendar-day-noday Saturday&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;&lt;/div&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://errand.ir/archive/../comments/&quot;&gt;Recent Comments&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://errand.ir/archive/../archives/&quot;&gt;Archives&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://errand.ir/archive/../tags/&quot;&gt;Tags&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul class=&quot;list&quot;&gt;
-&lt;/ul&gt;
-
-
-
 </description>
 
 

@@ -16,10 +16,21 @@
 	<link>http://errand.ir/posts/This_will_be_a_personal_page/</link>
 
 	<pubDate>Tue, 24 Oct 2017 10:56:55 +0330</pubDate>
-	<dcterms:modified>2017-10-24T09:56:05Z</dcterms:modified>
+	<dcterms:modified>2017-10-24T17:37:59Z</dcterms:modified>
 
 	<description>&lt;p&gt;Some resume/cv stuff will be uploaded here, along with some personal and contact information, probably thoughts, reflections, ideas, comments or any other public statements by the other.
 There will be a name too. However, if you are reading this and do not know the author, you probably got no business here.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;salam&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;pre class=&quot;hl&quot;&gt;    &lt;span class=&quot;hl kwa&quot;&gt;public class&lt;/span&gt; MainClass &lt;span class=&quot;hl opt&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;hl kwa&quot;&gt;public static&lt;/span&gt; &lt;span class=&quot;hl kwb&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hl kwd&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;(&lt;/span&gt;String&lt;span class=&quot;hl opt&quot;&gt;[]&lt;/span&gt; args&lt;span class=&quot;hl opt&quot;&gt;) {&lt;/span&gt;
+            System&lt;span class=&quot;hl opt&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;hl opt&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;hl kwd&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;hl str&quot;&gt;&amp;quot;Goodbye World!&amp;quot;&lt;/span&gt;&lt;span class=&quot;hl opt&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;hl opt&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;hl opt&quot;&gt;}&lt;/span&gt;
+    
+&lt;/pre&gt;
+
 </description>
 
 
